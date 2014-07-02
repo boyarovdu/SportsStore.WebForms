@@ -1,0 +1,121 @@
+﻿body {
+    margin: 0px;
+    font-family: Cambria, Georgia, "Times New Roman";
+}
+
+#header {
+    font-size: 2em;
+    padding: 25px;
+    background-color: #444;
+    color: white;
+    border-bottom: 2px solid black;
+}
+
+#menu {
+    padding: 1em;
+    float: left;
+    width: 8em;
+    font-size: medium;
+}
+
+#body {
+    margin-left: 10em;
+    padding: 1em;
+    border-left: 2px solid black;
+}
+
+    #body h3 {
+        margin: 0px;
+    }
+
+    #body h4 {
+        margin: 0px;
+    }
+
+    #body div.item {
+        border-bottom: 1px dotted black;
+        padding: 0px 0px 10px 0px;
+        margin: 0px 0px 10px 0px;
+    }
+
+#items {
+    border-bottom: 2px solid gray;
+}
+
+    #items .item:last-child {
+        border-bottom: none;
+    }
+
+#pager {
+    float: right;
+    margin: 10px;
+}
+
+    #pager a {
+        color: #666;
+        text-decoration: none;
+        padding: 2px 5px;
+    }
+
+        #pager a.selected {
+            background-color: #666;
+            color: white;
+            text-decoration: none;
+        }
+
+div#menu a {
+    font: bold 1.1em "Arial Narrow","Franklin Gothic Medium",Arial;
+    display: block;
+    text-decoration: none;
+    padding: .6em;
+    color: Black;
+    border-bottom: 1px solid silver;
+}
+
+    div#menu A.selected {
+        background-color: #666;
+        color: White;
+    }
+
+    div#menu A:hover {
+        background-color: #CCC;
+    }
+
+    div#menu A.selected:hover {
+        background-color: #666;
+    }
+
+.item button[type='submit'] {
+    float: right;
+}
+
+button[type='submit'] {
+    background-color: #666;
+    border: none;
+    color: White;
+}
+
+#cartItems {
+    width: 80%;
+}
+
+    #cartItems tbody tr:last-child td {
+        border-bottom: 1px dotted black;
+    }
+
+#cartSummaryContainer {
+    float: right;
+}
+
+#cartSummary {
+    background-color: #666;
+    font-size: 0.5em;
+    padding: 13px;
+}
+
+    #cartSummary a {
+        text-decoration: none;
+        padding: 5px;
+        color: white;
+        background-color: #444;
+    }

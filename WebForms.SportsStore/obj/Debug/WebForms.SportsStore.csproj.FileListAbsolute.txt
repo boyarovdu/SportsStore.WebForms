@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\bin\WebForms.SportsStore.dll
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\bin\WebForms.SportsStore.pdb
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\bin\EntityFramework.dll
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\bin\EntityFramework.SqlServer.dll
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\bin\EntityFramework.xml
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\bin\EntityFramework.SqlServer.xml
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\obj\Debug\WebForms.SportsStore.dll
+c:\users\david\documents\visual studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\obj\Debug\WebForms.SportsStore.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebForms.SportsStore\WebForms.SportsStore\obj\Debug\WebForms.SportsStore.csprojResolveAssemblyReference.cache
